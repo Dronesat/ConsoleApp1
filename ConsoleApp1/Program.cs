@@ -4,6 +4,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+        // program to calculate fibonacci sequence
         public static int Fibonacci(int n)
         {
             int a = 0;
